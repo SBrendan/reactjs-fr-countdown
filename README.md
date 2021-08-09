@@ -3,7 +3,7 @@
 A simple countdown timer component for React.js.
 
 This package is inspired from the awesome [vuejs-countdown](https://github.com/getanwar/vuejs-countdown) package.
-
+Forked from [reactjs-countdown](https://github.com/hashemirafsan/reactjs-countdown)
 ![screenshot](https://raw.githubusercontent.com/hashemirafsan/reactjs-countdown/master/scr.png "React JS Countdown")
 
 ## Installation
